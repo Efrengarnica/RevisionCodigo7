@@ -41,6 +41,6 @@ public class codigo7 {
       }
     } while (!c.equals("salir")); //Se corrige la palabara while y agregar parentesis 
     
-    
+   s.close();
   }// main 
 }// class codigo7
